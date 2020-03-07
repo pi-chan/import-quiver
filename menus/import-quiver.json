@@ -1,25 +1,17 @@
 {
-  "context-menu": {
-    ".CodeMirror": [
-      {
-        "label": "Toggle import-quiver",
-        "command": "import-quiver:toggle"
-      }
-    ]
-  },
   "menu": [
     {
-      "label": "Plugins",
+      "label": "File",
       "submenu": [
-        {
-          "label": "import-quiver",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "import-quiver:toggle"
-            }
-          ]
-        }
+	{
+	  "label": "Import",
+	  "submenu": [
+	    {
+	      "label": "from Quiver directory..",
+	      "command": "import-quiver:toggle"
+	    }
+	  ]
+	}
       ]
     }
   ]

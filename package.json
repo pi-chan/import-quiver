@@ -1,0 +1,15 @@
+{
+  "name": "import-quiver",
+  "main": "./lib/import-quiver",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "repository": "https://github.com/inkdropapp/import-quiver",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^4.x"
+  },
+  "dependencies": {
+  }
+}

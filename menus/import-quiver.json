@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle import-quiver",
+        "command": "import-quiver:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "import-quiver",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "import-quiver:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

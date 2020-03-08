@@ -7,7 +7,7 @@
           "label": "Import",
           "submenu": [
             {
-              "label": "from Quiver directory..",
+              "label": "from Quiver Library",
               "command": "import-quiver:invoke"
             }
           ]

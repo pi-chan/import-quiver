@@ -4,6 +4,12 @@ This plugin allows you to import notes from Quiver Library(`Quiver.qvlibrary`).
 
 This plugin has only been tested on macOS.
 
+# Install
+
+```
+ipm install import-quiver
+```
+
 # Usage
 
 + Install this plugin.

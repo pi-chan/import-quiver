@@ -3,15 +3,15 @@
     {
       "label": "File",
       "submenu": [
-	{
-	  "label": "Import",
-	  "submenu": [
-	    {
-	      "label": "from Quiver directory..",
-	      "command": "import-quiver:toggle"
-	    }
-	  ]
-	}
+        {
+          "label": "Import",
+          "submenu": [
+            {
+              "label": "from Quiver directory..",
+              "command": "import-quiver:toggle"
+            }
+          ]
+        }
       ]
     }
   ]

@@ -8,7 +8,7 @@
           "submenu": [
             {
               "label": "from Quiver directory..",
-              "command": "import-quiver:toggle"
+              "command": "import-quiver:invoke"
             }
           ]
         }

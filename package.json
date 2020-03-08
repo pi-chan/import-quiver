@@ -1,7 +1,7 @@
 {
   "name": "import-quiver",
   "main": "./lib/import-quiver",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "This plugin allows you to import notes from Quiver Library(Quiver.qvlibrary).",
   "keywords": [],
   "repository": "https://github.com/pi-chan/import-quiver",

@@ -10,6 +10,8 @@
     "inkdrop": "^4.x"
   },
   "dependencies": {
-    "core-js": "^3.6.5"
+    "core-js": "^3.6.5",
+    "inkdrop-model": "^2.6.2",
+    "mime": "^2.5.2"
   }
 }

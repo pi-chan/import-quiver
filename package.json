@@ -7,7 +7,7 @@
   "repository": "https://github.com/pi-chan/import-quiver",
   "license": "MIT",
   "engines": {
-    "inkdrop": "^4.x"
+    "inkdrop": "^5.x"
   },
   "dependencies": {
     "core-js": "^3.6.5",
